@@ -11,3 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoSantosOP7&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSantosOP7&layout=compact&theme=radical"/>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
