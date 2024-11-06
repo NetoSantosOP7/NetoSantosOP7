@@ -1,9 +1,11 @@
 ### <p>Hi, I`m Neto! 👋</p>
 - Currently studying System Analysis and Development at UniFacema in Caxias, MA, Brazil.; <br>
 - Progressing gradually every day. :octocat:
-<hr>
 
-<img src="https://skillicons.dev/icons?i=c,cs,php,py,mysql,github,git,vscode,visualstudio" />
+
+<img src="https://skillicons.dev/icons?i=php,py,mysql,dotnet,github,git,html,css,vscode,visualstudio" />
+
+<hr>
 
 <p align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoSantosOP7&show_icons=true&theme=radical&count_private=true"/>
