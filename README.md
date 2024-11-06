@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/boruto-karma-naruto-momoshiki-otsutsuki-karma-seal-gif-23665131"  />
+<img align="right" height="150" src="https://tenor.com/bE3Ip.gif"  />
 
 <hr>
 
