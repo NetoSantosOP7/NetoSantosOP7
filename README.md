@@ -9,7 +9,7 @@
   </a>
 </p>
 
-  <img align="right" height="500" src="https://tenor.com/pt-BR/view/boruto-is-a-legend-gif-21236321" />
+<div class="tenor-gif-embed" data-postid="23665131" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/boruto-karma-naruto-momoshiki-otsutsuki-karma-seal-gif-23665131">Boruto Karma Naruto GIF</a>from <a href="https://tenor.com/search/boruto+karma-gifs">Boruto Karma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <hr>
 
