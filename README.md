@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img style="padding-left: 40px; " align="center" height="150" src="https://media1.tenor.com/m/Ci4t4CiN7yEAAAAC/boruto-karma-naruto.gif"  /> 
+<img style="padding-left: 40%; " align="center" height="150" src="https://media1.tenor.com/m/Ci4t4CiN7yEAAAAC/boruto-karma-naruto.gif"  /> 
 
 <hr>
 
