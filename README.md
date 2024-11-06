@@ -9,6 +9,7 @@
   </a>
 </p>
 
+  <img align="right" height="500" src="[https://i.imgur.com/2HKJkNE.png](https://media1.tenor.com/m/Ci4t4CiN7yEAAAAd/boruto-karma-naruto.gif)" />
 
 <hr>
 
