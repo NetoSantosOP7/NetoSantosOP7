@@ -9,9 +9,8 @@
   </a>
 </p>
 
-<img align="right" height="150" src="https://tenor.com/view/10-gif-22139719"  /> 
-
-<div class="tenor-gif-embed" data-postid="22139719" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/10-gif-22139719">10 GIF</a>from <a href="https://tenor.com/search/10-gifs">10 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://imgur.com/gallery/boruto-gif-YYGI85E"  /> 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YYGI85E"  ><a href="//imgur.com/a/YYGI85E">Boruto gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <hr>
 
