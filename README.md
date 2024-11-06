@@ -3,7 +3,12 @@
 - Progressing gradually every day. :octocat:
 
 
-<img src="https://skillicons.dev/icons?i=php,py,mysql,dotnet,github,git,html,css,vscode,visualstudio" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,mysql,dotnet,github,git,html,css,vscode,visualstudio" />
+  </a>
+</p>
+
 
 <hr>
 
@@ -12,8 +17,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSantosOP7&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,mysql,dotnet,github,git,html,css,vscode,visualstudio" />
-  </a>
-</p>
