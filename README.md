@@ -1,6 +1,6 @@
-### <p>Olá, me chamo Neto! 👋</p>
-- Cursando Análise e Desenvolvimento de Sistemas em Caxias - MA; <br>
-- Progredindo gradualmente todos os dias. :octocat:
+### <p>Hi, I`m Neto! 👋</p>
+- Currently studying System Analysis and Development at UniFacema in Caxias, MA, Brazil.; <br>
+- Progressing gradually every day. :octocat:
 <hr>
 
 <p align='center'>
