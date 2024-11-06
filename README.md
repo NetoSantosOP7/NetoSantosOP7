@@ -9,8 +9,7 @@
   </a>
 </p>
 
-<img align="right" height="150" src="https://imgur.com/gallery/boruto-gif-YYGI85E"  /> 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YYGI85E"  ><a href="//imgur.com/a/YYGI85E">Boruto gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img align="right" height="150" src="https://imgur.com/a/YYGI85E"  /> 
 
 <hr>
 
