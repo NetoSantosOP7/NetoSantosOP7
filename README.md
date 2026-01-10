@@ -1,11 +1,11 @@
 ### <p>Hi, I`m Neto! 👋</p>
-- Currently studying System Analysis and Development at UniFacema in Caxias, MA, Brazil.; <br>
+- Graduated in Systems Analysis and Development at UniFacema in Caxias, MA, Brazil.; <br>
 - Progressing gradually every day. :octocat:
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,mysql,dotnet,github,html,css,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=php,ts,mysql,dotnet,github,html,css,vscode,visualstudio" />
   </a>
 </p>
 
