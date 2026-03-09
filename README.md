@@ -1,8 +1,8 @@
 ### <p>Hi, I`m Neto! 👋</p>
 - Graduated in Systems Analysis and Development at UniFacema in Caxias, MA, Brazil.;
 - Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
-
-Although familiar with both front-end and back-end development, my goal is to grow professionally in the back-end field, applying my skills to create innovative solutions that enhance the efficiency and success of systems. <br>
+  
+- Although familiar with both front-end and back-end development, my goal is to grow professionally in the back-end field, applying my skills to create innovative solutions that enhance the efficiency and success of systems. <br>
 - Progressing gradually every day. :octocat:
 
 
