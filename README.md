@@ -1,26 +1,20 @@
-### <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Neto!+👋;Full+Stack+Developer;Back-end+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Neto!+👋;Full+Stack+Developer;Back-end+Enthusiast" alt="Typing SVG" />
 </p>
 
-<img src="./assets/laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./assets/laptop.png" alt="ilustração de um computador" width="400px" align="right">
+
+<br>
+
+<p align="justify">
+Graduated in Systems Analysis and Development at <a href="https://unifacema.edu.br/">UniFacema</a> in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
 <br><br>
-<p align=justify>Graduated in Systems Analysis and Development at <a href="https://unifacema.edu.br/">UniFacema</a> in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
-<br>
-<br>
 Although familiar with both front-end and back-end development, my goal is to grow professionally in the back-end field, applying my skills to create innovative solutions that enhance the efficiency and success of systems.
 </p>
-<p>
-Progressing gradually every day. :octocat:
-</p>
+
+<p>Progressing gradually every day. :octocat:</p>
+
 <br>
-
-###
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoSantosOP7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSantosOP7&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 <br>
 
 <h2 align="left">💻 Technologies & Tools</h2>
@@ -35,30 +29,18 @@ Progressing gradually every day. :octocat:
   <img src="assets/boruto-uzumaki.gif" width="200">
 </p>
 
-
 <hr>
 
 <h2 align="left">☕ Reach me!</h2>
 
-###
-
-<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
+<p align="center">
   <a href="mailto:netosantos7.dev@gmail.com">
-    <picture>
-      <source srcset="./icons/gmail.svg" media="(prefers-color-scheme: light)">
-      <img src="./icons/gmail-dark.svg" alt="Email" />
-    </picture>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <picture>
-      <source srcset="./icons/linkedin.svg" media="(prefers-color-scheme: light)">
-      <img src="./icons/linkedin-dark.svg" alt="LinkedIn" />
-    </picture>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/netosantoz_">
-    <picture>
-      <source srcset="./icons/instagram.svg" media="(prefers-color-scheme: light)">
-      <img src="./icons/instagram-dark.svg" alt="Instagram" />
-    </picture>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
