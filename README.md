@@ -13,6 +13,12 @@
   <img height="150" src="https://media1.tenor.com/m/Ci4t4CiN7yEAAAAC/boruto-karma-naruto.gif" />
 </p>
 
+<p align="center">
+
+<div class="tenor-gif-embed" data-postid="11477559146736317152" data-share-method="host" data-aspect-ratio="1.10667" data-width="100%"><a href="https://tenor.com/view/boruto-uzumaki-otsutsuki-tbv-two-blue-vortex-gif-11477559146736317152">Boruto Uzumaki GIF</a>from <a href="https://tenor.com/search/boruto-gifs">Boruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+</p>
+
 
 <hr>
 
