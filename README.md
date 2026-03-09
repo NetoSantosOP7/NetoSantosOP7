@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&italic=true&weight=700&size=30&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast" alt="Typing SVG" />
 </p>
 
 <img src="./assets/laptop.png" alt="ilustração de um computador" width="400px" align="right">
@@ -21,7 +21,7 @@ Although familiar with both front-end and back-end development, my goal is to gr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,ts,mysql,dotnet,github,html,css,js,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=php,ts,mysql,dotnet,docker,github,html,css,js,vscode,visualstudio" />
   </a>
 </p>
 
