@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://media1.tenor.com/m/n0h7O7XA8uAAAAAC/boruto-uzumaki.gif" />
+  <img src="assets/boruto.gif" width="150">
 </p>
 
 
