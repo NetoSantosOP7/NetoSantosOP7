@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://tenor.com/view/boruto-uzumaki-otsutsuki-tbv-two-blue-vortex-gif-11477559146736317152" />
+  <img height="150" src="https://media1.tenor.com/m/n0h7O7XA8uAAAAAC/boruto-uzumaki.gif" />
 </p>
 
 
