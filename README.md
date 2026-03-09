@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/boruto.gif" width="150">
+  <img src="assets/boruto-uzumaki.gif" width="150">
 </p>
 
 
