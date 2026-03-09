@@ -1,6 +1,6 @@
 ### <p>Hi, I`m Neto! 👋</p>
-;
-<img src="./images/laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<img src="./assets/laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br>
 <p align=justify>Graduated in Systems Analysis and Development at <a href="https://unifacema.edu.br/">UniFacema</a> in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
 <br>
