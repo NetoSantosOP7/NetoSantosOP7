@@ -16,8 +16,28 @@
 
 <hr>
 
-<p align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoSantosOP7&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoSantosOP7&layout=compact&theme=radical"/>
+<h2 align="left">☕ Reach me!</h2>
+
+###
+
+<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
+  <a href="mailto:netosantos7.dev@gmail.com">
+    <picture>
+      <source srcset="./icons/gmail.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/gmail-dark.svg" alt="Email" />
+    </picture>
+  </a>
+  <a href="#">
+    <picture>
+      <source srcset="./icons/linkedin.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/linkedin-dark.svg" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/netosantoz_">
+    <picture>
+      <source srcset="./icons/instagram.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/instagram-dark.svg" alt="Instagram" />
+    </picture>
+  </a>
 </p>
 
