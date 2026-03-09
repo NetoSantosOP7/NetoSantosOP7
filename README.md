@@ -33,14 +33,23 @@ Although familiar with both front-end and back-end development, my goal is to gr
 
 <h2 align="left">☕ Reach me!</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
   <a href="mailto:netosantos7.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <picture>
+      <source srcset="./icons/gmail.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/gmail-dark.svg" alt="Email" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="#">
+    <picture>
+      <source srcset="./icons/linkedin.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/linkedin-dark.svg" alt="LinkedIn" />
+    </picture>
   </a>
   <a href="https://www.instagram.com/netosantoz_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <picture>
+      <source srcset="./icons/instagram.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/instagram-dark.svg" alt="Instagram" />
+    </picture>
   </a>
 </p>
