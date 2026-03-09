@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast&multiline=false&repeat=true&handwritten=false&theme=dark&bg_color=00000000&color=42A5F5&vCenter=true&width=550&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast" 
-       style="transform: skewX(-15deg);" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast&multiline=false&repeat=true&handwritten=false&theme=dark&bg_color=00000000&color=42A5F5&vCenter=true&width=550&lines=Hi%2C+I'm+Neto!+%F0%9F%91%8B;Full+Stack+Developer;Back-end+Enthusiast"/>
 </p>
 
 <img src="./assets/laptop.png" alt="ilustração de um computador" width="400px" align="right">
