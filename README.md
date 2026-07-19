@@ -21,7 +21,7 @@ Although familiar with both front-end and back-end development, my goal is to gr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,ts,mysql,dotnet,docker,github,html,css,js,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=php,cs,ts,mysql,dotnet,docker,github,html,css,js,vscode,visualstudio" />
   </a>
 </p>
 
